@@ -17,7 +17,6 @@ module PowerReviews
       
       # Do the copying of the zip file to the preferred destination
       def copy_zip(to)
-        puts 'FTP getting file'
         client.getbinaryfile(@config['zip'], to)
       end
       
@@ -28,7 +27,6 @@ module PowerReviews
       
       def client
         return @client unless @client.nil?
-        puts "Connecting to #{@config['host']} as #{@config['username']}"
         @client = Net::FTP.new(@config['host'])
         @client.login(@config['username'], @config['password'])
         @client
