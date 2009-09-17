@@ -6,14 +6,10 @@ class PowerReviewsGenerator < Rails::Generator::Base
       
       m.directory "config/initializers"
 
-      m.file 'config/power_reviews.yml', 'config/power_reviews.yml'
-      m.file 'config/initializers/power_reviews.rb', 'config/initializers/power_reviews.rb'
+      m.file 'config/power_reviews.yml', 'config/power_reviews.yml', :collision => :skip
+      m.file 'config/initializers/power_reviews.rb', 'config/initializers/power_reviews.rb', :collision => :skip
       m.file 'config/schedule.rb', 'config/schedule.rb'
-      
-      m.directory 'app/controllers'
-      m.directory 'app/views'
-      m.directory 'app/helpers'
-      
+            
     end
   end
 end
