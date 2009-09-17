@@ -1,0 +1,16 @@
+# For retrieving the zip file from PowerReviews
+# 
+# 
+
+development:
+  protocol:   cp
+  zip:        test/k2skis.zip
+  done:       test/k2skis_done.txt
+  
+production:
+  protocol:   ftp
+  zip:        k2skis.zip
+  done:       k2skis_done.txt
+  host:       partners.powerreviews.com
+  username:   k2sports
+  password:   yEbnbUxb!

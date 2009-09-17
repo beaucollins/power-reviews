@@ -1,0 +1,16 @@
+Description:
+    For integrating power reviews into your Rails site. Handles the downloading of PowerReviews
+    zip files via FTP and provides helpers to display power reviews data in your site.
+    
+    Also provides an interface for creating a product data feed in CSV format to help making data
+    feeds easier.
+    
+    Uses whenever [http://github.com/javan/whenever] to provide a cron schedule.
+
+Example:
+    ./script/generate power_reviews
+
+    This will create:
+      config/power_reviews.yml
+      config/schedule.rb
+      config/initializer/power_reviews.rb
