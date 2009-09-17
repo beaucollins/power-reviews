@@ -11,6 +11,6 @@ production:
   protocol:   ftp
   zip:        k2skis.zip
   done:       k2skis_done.txt
-  host:       partners.powerreviews.com
-  username:   k2sports
-  password:   yEbnbUxb!
+  # host:       partners.powerreviews.com
+  # username:   user
+  # password:   passy
