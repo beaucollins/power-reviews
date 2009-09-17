@@ -5,13 +5,14 @@ module PowerReviews
       javascript_include_tag('/system/pwr/engine/js/full')
     end
 
-    def power_reviews_javascript_variables
+    def power_reviews_javascript_variables(options = {})
+      options = {
+        :locale => 'en_US',
+        :zip_location => '/system/',
+        :pr_style_sheet => ''
+      }.merge(options)
       javascript_tag do
-        <<-eos
-          var pr_locale= "en_US";
-          var pr_zip_location= "/system/";
-          //var pr_style_sheet= "http://www.yoursite.com/css/pr_override.css";
-        eos
+        options.collect { |key, val| "var pr_#{key} =  '#{val}';" unless val.blank? }.compact!.join("\n")
       end
     end
 
