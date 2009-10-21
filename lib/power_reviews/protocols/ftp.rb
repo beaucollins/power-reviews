@@ -22,7 +22,7 @@ module PowerReviews
       
       # Puts the data_feed on the specified ftp server
       def copy_data_feed(from)
-        client.putbinaryfile(@config['data_feed'])
+        client.putbinaryfile(from, @config['data_feed'])
       end
       
       # do any cleanup necessary
