@@ -1,3 +1,5 @@
+require "faster_csv"
+
 module PowerReviews
   
   # Collects the feed data then outputs to CSV file for delivery to the power review peeps
@@ -28,8 +30,7 @@ module PowerReviews
     end
     
     def to_csv
-      require 'fastercsv'
-      FasterCSV.open("#{RAILS_ROOT}/tmp/power_reviews.csv", 'w') do |csv|
+      @csv ||= FasterCSV.generate do |csv|
         csv << FeedItem.field_names
         @items.each do |item|
           csv << item.values

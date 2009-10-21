@@ -1,19 +1,13 @@
-# desc "Explaining what the task does"
-# task :power_reviews do
-#   # Task goes here
-# end
 namespace :power_reviews do
   
-  desc "Generates the product data feed in csv format"
+  desc "Outputs the PowerReviews feed in CSV format"
   task :feed => :environment do
-    puts "Generating Power Reviews product feed"
-    PowerReviews::Feed.process
-    puts "Completed"
+    puts PowerReviews::Feed.process
   end
   
-  desc "Copy the zip file from the ftp and unpack it"
+  desc "Copy the zip file from the ftp and unpack it then deliver the product feed"
   task :sync => :environment do
-    puts "Fetching power review data"
+    puts "Syncing PowerReviews data"
     PowerReviews::Sync.execute
     puts "Completed"
   end

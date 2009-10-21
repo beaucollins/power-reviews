@@ -1,4 +1,4 @@
-# For retrieving the zip file from PowerReviews
+# For retrieving the zip file from PowerReviews and delivering your updated data feed
 # 
 # 
 
@@ -6,11 +6,13 @@ development:
   protocol:   cp
   zip:        test/k2skis.zip
   done:       test/k2skis_done.txt
+  datafeed:   test/k2skis_data.zip
   
 production:
   protocol:   ftp
   zip:        k2skis.zip
   done:       k2skis_done.txt
+  data_feed:  k2skis_data.zip
   # host:       partners.powerreviews.com
   # username:   user
   # password:   passy

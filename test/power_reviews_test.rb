@@ -2,7 +2,6 @@ require 'test_helper'
 require 'power_reviews'
 
 class PowerReviewsTest < ActiveSupport::TestCase
-  # Replace this with your real tests.
   should "have itemdata with correct attributes" do
     item = PowerReviews::FeedItem.new
     assert PowerReviews::FeedItem::FIELDS.is_a?(Array)

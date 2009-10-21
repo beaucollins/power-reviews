@@ -16,6 +16,10 @@ module PowerReviews
         FileUtils.cp(@config['zip'], to)
       end
       
+      def copy_data_feed(from)
+        # do nothing, leave the zip where it is
+      end
+      
     end
   end
 end

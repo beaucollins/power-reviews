@@ -1,6 +1,7 @@
 require 'power_reviews/protocols/base'
 require 'power_reviews/protocols/cp'
 require 'power_reviews/protocols/ftp'
+require 'power_reviews/feed'
 
 module PowerReviews  
   # Downloads the ftp file and stores it in the correct location unzipped
@@ -26,6 +27,14 @@ module PowerReviews
           `cd #{File.dirname(zip_path)} && unzip -o #{zip_path}`
           client.done!
         end
+        
+        # zip up the powerreviews data tell the client to store it
+        data_path = "#{RAILS_ROOT}/tmp/review_data.csv"
+        File.open(data_path, 'w') do |f|
+          f.puts PowerReviews.Feed.process
+        end
+        `cd #{File.dirname(data_path)} && zip #{config['data_feed']}`
+        client.copy_data_feed("#{RAILS_ROOT}/tmp/#{config['data_feed']}")
         
       end
     end

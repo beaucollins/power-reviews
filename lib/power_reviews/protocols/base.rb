@@ -24,6 +24,9 @@ module PowerReviews
         puts 'This is the base class'
       end
       
+      def copy_data_feed(from)
+        puts 'This is the base class'
+      end
       
       # do any cleanup necessary
       def cleanup
