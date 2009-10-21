@@ -31,9 +31,9 @@ module PowerReviews
         # zip up the powerreviews data tell the client to store it
         data_path = "#{RAILS_ROOT}/tmp/review_data.csv"
         File.open(data_path, 'w') do |f|
-          f.puts PowerReviews.Feed.process
+          f.puts PowerReviews::Feed.process
         end
-        `cd #{File.dirname(data_path)} && zip #{config['data_feed']}`
+        `cd #{File.dirname(data_path)} && zip #{config['data_feed']} #{File.basename(data_path)}`
         client.copy_data_feed("#{RAILS_ROOT}/tmp/#{config['data_feed']}")
         
       end
