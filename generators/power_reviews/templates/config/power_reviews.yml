@@ -13,6 +13,6 @@ production:
   zip:        k2skis.zip
   done:       k2skis_done.txt
   data_feed:  k2skis_data.zip
-  # host:       partners.powerreviews.com
-  # username:   user
-  # password:   passy
+  host:       partners.powerreviews.com
+  username:   user
+  password:   passy

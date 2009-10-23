@@ -1,13 +1,73 @@
-PowerReviews
-============
+= PowerReviews
 
-Introduction goes here.
+Integrates the third party PowerReviews service with Ruby. Currently focused on Ruby on Rails
+but includes some tools to aid in non-rails tasks like data feed generation and automated
+zip downloads/uploads.
 
+== Dependencies
 
-Example
-=======
+PowerReviews gem requires FasterCSV[http://fastercsv.rubyforge.org/] for csv generation and
+Whenever[http://www.github.com/javan/whenever] for managing your crontab. It also requires that
+a native +zip+ tool be installed.
 
-Example goes here.
+  which zip
+  # /usr/bin/zip
 
+== Getting Started
 
-Copyright (c) 2009 [name of plugin creator], released under the MIT license
+Step one, install the gem.
+
+In your rails environment file:
+
+  config.gem 'power_reviews', :source => 'http://gems.k2sportsdev.com'
+  
+Then
+
+  rake gems:install
+  
+or from your shell:
+
+  gem install power_reviews --source=http://gems.k2sportsdev.com
+  
+With the gem installed it's now time to generate the necessary files in your rails project.
+From the root of your rails project run:
+
+  script/generate power_reviews
+  
+Which will output:
+
+  exists  lib/tasks
+  create  lib/tasks/power_reviews_tasks.rake
+  exists  config/initializers
+  create  config/power_reviews.yml
+  create  config/initializers/power_reviews.rb
+  create  config/schedule.rb
+
+=== Power Reviews configuration
+
+Define which files the PowerReviews::Sync class will be looking for when doing its nigtly download
+of files, like the database.yml file in your rails configuration you can have a different configuration
+for each environment. In this example, for development PowerReviews will use the local filesystem instead
+of connection to the ftp server with the live data.
+
+[+:protocol+]   is the type of sync client you wish to use +:cp+ or +:ftp+
+[+:zip+l]        the zip file you will receive from Power Reviews
+
+  development:
+    protocol:   cp
+    zip:        test/brand.zip
+    done:       test/brand_done.txt
+    datafeed:   tmp/brand_feed.zip
+  
+  production:
+    protocol:   ftp
+    zip:        brand.zip
+    done:       brand_done.txt
+    data_feed:  brand_data.zip
+    host:       partners.powerreviews.com
+    username:   user
+    password:   passy
+
+== Example
+
+Copyright (c) 2009 K2 Sports, released under the MIT license

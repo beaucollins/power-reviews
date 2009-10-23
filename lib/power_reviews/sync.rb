@@ -33,8 +33,7 @@ module PowerReviews
         File.open(data_path, 'w') do |f|
           f.puts PowerReviews::Feed.process
         end
-        `cd #{File.dirname(data_path)} && zip #{config['data_feed']} #{File.basename(data_path)}`
-        client.copy_data_feed("#{RAILS_ROOT}/tmp/#{config['data_feed']}")
+        client.copy_data_feed(data_path)
         
       end
     end
