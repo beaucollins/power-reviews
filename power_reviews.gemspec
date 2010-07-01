@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{power_reviews}
-  s.version = "0.2.4"
+  s.version = "0.2.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Beau Collins"]
-  s.date = %q{2009-10-21}
+  s.date = %q{2009-10-23}
   s.description = %q{Tools and library for integrating Power Reviews into a rails website.}
   s.email = %q{beaucollins@gmail.com}
   s.extra_rdoc_files = [
