@@ -22,11 +22,13 @@ module PowerReviews
       @power_reviews_javascript_needed = true
       javascript_tag do
         <<-eos
-        POWERREVIEWS.display.snippet(document, {
-          pr_page_id : '#{page_id}',
-          pr_write_review : '#{write_review_url}',
-          pr_read_review : '#{review_anchor}'
-        });
+        if(POWERREVIEWS){
+          POWERREVIEWS.display.snippet(document, {
+            pr_page_id : '#{page_id}',
+            pr_write_review : '#{write_review_url}',
+            pr_read_review : '#{review_anchor}'
+          });
+        }
         eos
       end
     end
@@ -35,10 +37,12 @@ module PowerReviews
       @power_reviews_javascript_needed = true
       javascript_tag do
         <<-eos
-        POWERREVIEWS.display.engine(document, {
-          pr_page_id : '#{page_id}',
-          pr_write_review : '#{write_review_url}'
-        });
+        if(POWERREVIEWS){
+          POWERREVIEWS.display.engine(document, {
+            pr_page_id : '#{page_id}',
+            pr_write_review : '#{write_review_url}'
+          });
+        }
         eos
       end
     end
