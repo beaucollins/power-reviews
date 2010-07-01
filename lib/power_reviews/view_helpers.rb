@@ -1,8 +1,10 @@
 module PowerReviews
   module ViewHelpers
       
-    def power_reviews_javascript_tag
-      javascript_include_tag('/system/pwr/engine/js/full')
+    def power_reviews_javascript_tag(path_to_file = '/system/pwr/engine/js/full')
+      unless @power_reviews_javascript_needed.nil?
+        javascript_include_tag(path_to_file)
+      end
     end
 
     def power_reviews_javascript_variables(options = {})
@@ -17,6 +19,7 @@ module PowerReviews
     end
 
     def power_reviews_snippet(page_id, write_review_url, review_anchor = '#ReviewHeader')
+      @power_reviews_javascript_needed = true
       javascript_tag do
         <<-eos
         POWERREVIEWS.display.snippet(document, {
@@ -29,6 +32,7 @@ module PowerReviews
     end
 
     def power_reviews_display(page_id, write_review_url)
+      @power_reviews_javascript_needed = true
       javascript_tag do
         <<-eos
         POWERREVIEWS.display.engine(document, {
@@ -40,6 +44,7 @@ module PowerReviews
     end
   
     def power_reviews_form(page_id, options = {})
+      @power_reviews_javascript_needed = true
       options = {
         :locale => '',
         :site_id => PowerReviews::Config.site_id,
