@@ -1,4 +1,5 @@
 require 'power_reviews/config'
+require 'power_reviews/review_data'
 
 require 'power_reviews/feed_item'
 require 'power_reviews/feed'

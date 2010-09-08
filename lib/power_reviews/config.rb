@@ -1,20 +1,31 @@
 module PowerReviews
   class Config
     
-    def self.merchant_group_id
-      @@merchant_group_id
-    end
+    class << self
+      def merchant_group_id
+        @merchant_group_id
+      end
 
-    def self.merchant_group_id=id
-      @@merchant_group_id = id
-    end
+      def merchant_group_id=id
+        @merchant_group_id = id
+      end
 
-    def self.site_id
-      @@site_id
-    end
+      def site_id
+        @site_id
+      end
     
-    def self.site_id=id
-      @@site_id = id
+      def site_id=id
+        @site_id = id
+      end
+      
+      def review_data_path
+        @review_data_path || 'public/system/pwr'
+      end
+      
+      def review_data_path=path
+        @review_data_path = path
+      end
+      
     end
     
   end

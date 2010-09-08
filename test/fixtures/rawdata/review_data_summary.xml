@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid id="shadow">shadow</pageid>
+<name>Shadow</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-01-28</newestreviewdate>
+<oldestreviewdate>2010-01-28</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Purchaser</confirmstatus>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Snowboarding</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Beginner</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Comfortable</tag>
+<tag isuseradded="false" count="1">Easily adjustable</tag>
+<tag isuseradded="false" count="1">Great peripheral vision</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="false" count="1">Protective</tag>
+<tag isuseradded="false" count="1">Stylish</tag>
+<tag isuseradded="false" count="1">Well ventilated</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="1">Feels true to size</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>clutch</pageid>
+<name>Clutch</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-01-22</newestreviewdate>
+<oldestreviewdate>2009-12-23</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Purchaser</confirmstatus>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Half pipe</tag>
+<tag isuseradded="false" count="1">Park</tag>
+<tag isuseradded="false" count="1">Skiing</tag>
+<tag isuseradded="false" count="2">Snowboarding</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Audio wiring</tag>
+<tag isuseradded="true" count="1">Ear covers not snug</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Comfortable</tag>
+<tag isuseradded="false" count="1">Easily adjustable</tag>
+<tag isuseradded="false" count="1">Great peripheral vision</tag>
+<tag isuseradded="false" count="2">Headphone compatible</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="false" count="1">Protective</tag>
+<tag isuseradded="false" count="1">Stylish</tag>
+<tag isuseradded="false" count="2">Well ventilated</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="2">Feels true to size</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>indy</pageid>
+<name>Indy</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-06-29</newestreviewdate>
+<oldestreviewdate>2010-01-17</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.7</average_rating_decimal>
+<fullreviews>3</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="3">Downhill</tag>
+<tag isuseradded="false" count="2">Icy conditions</tag>
+<tag isuseradded="false" count="2">Moguls</tag>
+<tag isuseradded="false" count="1">Powder</tag>
+<tag isuseradded="false" count="1">Racing</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Durable</tag>
+<tag isuseradded="false" count="2">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="2">Great traction</tag>
+<tag isuseradded="false" count="2">Lightweight</tag>
+<tag isuseradded="false" count="2">Scratch resistant</tag>
+<tag isuseradded="false" count="2">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>3</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>burnin-luv</pageid>
+<name>Burnin' Luv</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-08-23</newestreviewdate>
+<oldestreviewdate>2009-11-04</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>4.8</average_rating_decimal>
+<fullreviews>6</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="4">Downhill</tag>
+<tag isuseradded="false" count="4">Icy conditions</tag>
+<tag isuseradded="false" count="5">Moguls</tag>
+<tag isuseradded="false" count="3">Powder</tag>
+<tag isuseradded="false" count="2">Racing</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="1">Heavy</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="3">Advanced</tag>
+<tag isuseradded="false" count="2">Competitive athlete</tag>
+<tag isuseradded="false" count="1">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Durable</tag>
+<tag isuseradded="false" count="4">Good carving ability</tag>
+<tag isuseradded="false" count="3">Great flotation</tag>
+<tag isuseradded="false" count="5">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="true" count="1">Make you ski better</tag>
+<tag isuseradded="false" count="3">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>6</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>force</pageid>
+<name>Force</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-01-16</newestreviewdate>
+<oldestreviewdate>2010-01-16</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="1">Powder</tag>
+<tag isuseradded="false" count="1">Racing</tag>
+<tag isuseradded="false" count="1">Telemarking</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Competitive athlete</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Durable</tag>
+<tag isuseradded="false" count="1">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="1">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>vintage-logo-ls-tee</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-08-22</newestreviewdate>
+<oldestreviewdate>2010-08-22</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Great old school logo</tag>
+<tag isuseradded="true" count="1">Quality material</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>interceptor</pageid>
+<name>Interceptor</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-02-28</newestreviewdate>
+<oldestreviewdate>2010-01-26</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="2">Downhill</tag>
+<tag isuseradded="true" count="1">Groomed and ungroomed</tag>
+<tag isuseradded="false" count="2">Moguls</tag>
+<tag isuseradded="false" count="1">Powder</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="1">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>hardside</pageid>
+<name>HardSide</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2009-12-29</newestreviewdate>
+<oldestreviewdate>2009-12-29</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">CRUD</tag>
+<tag isuseradded="false" count="1">Powder</tag>
+<tag isuseradded="true" count="1">Quick turns</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="1">Great traction</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>first-luv</pageid>
+<name>First Luv</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-04-04</newestreviewdate>
+<oldestreviewdate>2010-02-03</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Downhill</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Beginner</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Durable</tag>
+<tag isuseradded="false" count="1">Good carving ability</tag>
+<tag isuseradded="false" count="2">Great flotation</tag>
+<tag isuseradded="false" count="2">Great traction</tag>
+<tag isuseradded="false" count="2">Lightweight</tag>
+<tag isuseradded="false" count="1">Scratch resistant</tag>
+<tag isuseradded="false" count="2">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>stinger</pageid>
+<name>Stinger</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-04-12</newestreviewdate>
+<oldestreviewdate>2010-01-11</oldestreviewdate>
+<averageoverallrating>2.5</averageoverallrating>
+<average_rating_decimal>2.5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="2">Heavy</tag>
+<tag isuseradded="false" count="1">Poor flotation</tag>
+<tag isuseradded="false" count="1">Poor grip</tag>
+<tag isuseradded="false" count="1">Poor ride</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Durable</tag>
+<tag isuseradded="false" count="1">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="1">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>1</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>wayback</pageid>
+<name>WayBack</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-05-23</newestreviewdate>
+<oldestreviewdate>2009-11-17</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Cross-country / ski touring</tag>
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="false" count="2">Powder</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Durable</tag>
+<tag isuseradded="false" count="2">Good carving ability</tag>
+<tag isuseradded="false" count="2">Great flotation</tag>
+<tag isuseradded="false" count="2">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>free-luv</pageid>
+<name>Free Luv</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-08-20</newestreviewdate>
+<oldestreviewdate>2009-12-25</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>4.8</average_rating_decimal>
+<fullreviews>6</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Any time</tag>
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+<tag isuseradded="false" count="2">Moguls</tag>
+<tag isuseradded="false" count="1">Powder</tag>
+<tag isuseradded="false" count="1">Racing</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="5">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Confidence booster</tag>
+<tag isuseradded="false" count="2">Durable</tag>
+<tag isuseradded="true" count="1">Excellent turn initiation</tag>
+<tag isuseradded="false" count="5">Good carving ability</tag>
+<tag isuseradded="true" count="1">Good flotation</tag>
+<tag isuseradded="true" count="1">Great design</tag>
+<tag isuseradded="false" count="3">Great flotation</tag>
+<tag isuseradded="false" count="4">Great traction</tag>
+<tag isuseradded="false" count="3">Lightweight</tag>
+<tag isuseradded="false" count="1">Scratch resistant</tag>
+<tag isuseradded="false" count="4">Smooth ride</tag>
+<tag isuseradded="true" count="1">Wonderfull feel</tag>
+</taggroup>
+<bottom_line_yes_votes>6</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>recon</pageid>
+<name>Recon</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-23</newestreviewdate>
+<oldestreviewdate>2009-11-02</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>4.8</average_rating_decimal>
+<fullreviews>11</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">ALL MOUNTAIN</tag>
+<tag isuseradded="true" count="1">Any terrain</tag>
+<tag isuseradded="true" count="1">Bowls and chutes</tag>
+<tag isuseradded="false" count="11">Downhill</tag>
+<tag isuseradded="true" count="1">Fall line</tag>
+<tag isuseradded="true" count="1">Great in crud</tag>
+<tag isuseradded="true" count="1">Groomed</tag>
+<tag isuseradded="false" count="9">Icy conditions</tag>
+<tag isuseradded="false" count="5">Moguls</tag>
+<tag isuseradded="false" count="3">Powder</tag>
+<tag isuseradded="true" count="1">Variable conditions</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Almost too damp</tag>
+<tag isuseradded="true" count="1">Er can't think of any</tag>
+<tag isuseradded="false" count="3">Heavy</tag>
+<tag isuseradded="false" count="1">Poor flotation</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="2">Advanced</tag>
+<tag isuseradded="false" count="4">Advanced skier</tag>
+<tag isuseradded="false" count="3">Intermediate</tag>
+<tag isuseradded="false" count="2">Intermediate skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Consistancy</tag>
+<tag isuseradded="true" count="1">Decent grip</tag>
+<tag isuseradded="false" count="6">Durable</tag>
+<tag isuseradded="false" count="10">Good carving ability</tag>
+<tag isuseradded="false" count="8">Great flotation</tag>
+<tag isuseradded="false" count="9">Great traction</tag>
+<tag isuseradded="true" count="1">Highly predictable</tag>
+<tag isuseradded="false" count="9">Smooth ride</tag>
+<tag isuseradded="true" count="1">Stable</tag>
+<tag isuseradded="true" count="1">Versatile</tag>
+</taggroup>
+<bottom_line_yes_votes>11</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>xplorer</pageid>
+<name>Xplorer</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-04-17</newestreviewdate>
+<oldestreviewdate>2009-11-13</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>4.8</average_rating_decimal>
+<fullreviews>13</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Carving</tag>
+<tag isuseradded="true" count="1">Deep crud</tag>
+<tag isuseradded="false" count="10">Downhill</tag>
+<tag isuseradded="true" count="1">Good all rounder</tag>
+<tag isuseradded="false" count="7">Icy conditions</tag>
+<tag isuseradded="false" count="8">Moguls</tag>
+<tag isuseradded="true" count="1">Off piste</tag>
+<tag isuseradded="false" count="10">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="3">Heavy</tag>
+<tag isuseradded="true" count="1">Not very lively</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="8">Advanced</tag>
+<tag isuseradded="false" count="3">Advanced skier</tag>
+<tag isuseradded="false" count="1">Intermediate skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="3">Durable</tag>
+<tag isuseradded="false" count="13">Good carving ability</tag>
+<tag isuseradded="false" count="10">Great flotation</tag>
+<tag isuseradded="false" count="12">Great traction</tag>
+<tag isuseradded="false" count="3">Lightweight</tag>
+<tag isuseradded="true" count="1">Predictable</tag>
+<tag isuseradded="false" count="9">Smooth ride</tag>
+<tag isuseradded="true" count="1">Smooth stable at speed</tag>
+<tag isuseradded="true" count="1">Stable at speed</tag>
+</taggroup>
+<bottom_line_yes_votes>13</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>gotback</pageid>
+<name>GotBack</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-04-15</newestreviewdate>
+<oldestreviewdate>2009-11-17</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>4</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="4">Powder</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="3">Advanced</tag>
+<tag isuseradded="false" count="1">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="3">Durable</tag>
+<tag isuseradded="false" count="2">Good carving ability</tag>
+<tag isuseradded="false" count="4">Great flotation</tag>
+<tag isuseradded="false" count="3">Great traction</tag>
+<tag isuseradded="false" count="3">Lightweight</tag>
+<tag isuseradded="false" count="2">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>4</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>true</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>true-luv</pageid>
+<name>True Luv</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-09</newestreviewdate>
+<oldestreviewdate>2010-03-09</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Durable</tag>
+<tag isuseradded="false" count="1">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>obsethed</pageid>
+<name>ObSETHed</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-08-30</newestreviewdate>
+<oldestreviewdate>2009-11-10</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>10</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Crud bustin</tag>
+<tag isuseradded="false" count="5">Downhill</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+<tag isuseradded="true" count="1">Looking cool</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="false" count="10">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="4">Scratches easily</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="4">Advanced</tag>
+<tag isuseradded="false" count="2">Advanced skier</tag>
+<tag isuseradded="false" count="2">Collegiate/pro</tag>
+<tag isuseradded="false" count="1">Competitive athlete</tag>
+<tag isuseradded="false" count="1">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="5">Durable</tag>
+<tag isuseradded="false" count="6">Good carving ability</tag>
+<tag isuseradded="false" count="10">Great flotation</tag>
+<tag isuseradded="false" count="6">Great traction</tag>
+<tag isuseradded="false" count="5">Lightweight</tag>
+<tag isuseradded="false" count="2">Scratch resistant</tag>
+<tag isuseradded="true" count="1">Sexy</tag>
+<tag isuseradded="false" count="8">Smooth ride</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>10</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>kung-fujas</pageid>
+<name>Kung Fujas</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-19</newestreviewdate>
+<oldestreviewdate>2009-11-09</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.7</average_rating_decimal>
+<fullreviews>9</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Charging</tag>
+<tag isuseradded="true" count="1">CLIFFS</tag>
+<tag isuseradded="false" count="5">Downhill</tag>
+<tag isuseradded="false" count="5">Icy conditions</tag>
+<tag isuseradded="false" count="5">Moguls</tag>
+<tag isuseradded="true" count="2">Park</tag>
+<tag isuseradded="true" count="1">Pow</tag>
+<tag isuseradded="false" count="8">Powder</tag>
+<tag isuseradded="false" count="4">Racing</tag>
+<tag isuseradded="true" count="1">Switch</tag>
+<tag isuseradded="false" count="2">Telemarking</tag>
+<tag isuseradded="true" count="1">Trick</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Not durable</tag>
+<tag isuseradded="true" count="1">Pipes chip sidewalls</tag>
+<tag isuseradded="false" count="1">Poor ride</tag>
+<tag isuseradded="true" count="1">Tough in switch powder</tag>
+<tag isuseradded="true" count="1">Wobbly at high speeds</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="3">Advanced</tag>
+<tag isuseradded="false" count="4">Advanced skier</tag>
+<tag isuseradded="false" count="2">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="5">Durable</tag>
+<tag isuseradded="false" count="8">Good carving ability</tag>
+<tag isuseradded="true" count="1">Good flotation</tag>
+<tag isuseradded="false" count="8">Great flotation</tag>
+<tag isuseradded="true" count="1">Great pop</tag>
+<tag isuseradded="false" count="8">Great traction</tag>
+<tag isuseradded="false" count="6">Lightweight</tag>
+<tag isuseradded="true" count="1">Lord of ALL</tag>
+<tag isuseradded="true" count="1">Quick edge to edge</tag>
+<tag isuseradded="true" count="1">Ready for powder</tag>
+<tag isuseradded="false" count="6">Scratch resistant</tag>
+<tag isuseradded="false" count="7">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>8</bottom_line_yes_votes>
+<bottom_line_no_votes>1</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>rant</pageid>
+<name>Rant</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-03</newestreviewdate>
+<oldestreviewdate>2010-01-24</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.3</average_rating_decimal>
+<fullreviews>4</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Awesome</tag>
+<tag isuseradded="false" count="4">Downhill</tag>
+<tag isuseradded="true" count="1">Everything</tag>
+<tag isuseradded="true" count="1">Gnar-shredding</tag>
+<tag isuseradded="false" count="4">Half pipe</tag>
+<tag isuseradded="false" count="4">Park</tag>
+<tag isuseradded="false" count="2">Racing</tag>
+<tag isuseradded="false" count="4">Skiing</tag>
+<tag isuseradded="false" count="2">Snowboarding</tag>
+<tag isuseradded="true" count="1">You're cool</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Goggle clip design</tag>
+<tag isuseradded="true" count="1">Heavy</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="2">Advanced</tag>
+<tag isuseradded="false" count="1">Collegiate/pro</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Awesome</tag>
+<tag isuseradded="true" count="1">Best thing ever</tag>
+<tag isuseradded="false" count="4">Comfortable</tag>
+<tag isuseradded="false" count="2">Easily adjustable</tag>
+<tag isuseradded="false" count="4">Great peripheral vision</tag>
+<tag isuseradded="false" count="3">Headphone compatible</tag>
+<tag isuseradded="false" count="3">Lightweight</tag>
+<tag isuseradded="false" count="4">Protective</tag>
+<tag isuseradded="false" count="4">Stylish</tag>
+<tag isuseradded="true" count="1">Super cool</tag>
+<tag isuseradded="false" count="4">Well ventilated</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="4">Feels true to size</tag>
+</taggroup>
+<bottom_line_yes_votes>4</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>backup</pageid>
+<name>BackUp</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2009-11-17</newestreviewdate>
+<oldestreviewdate>2009-11-17</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="2">Downhill</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="false" count="2">Powder</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="2">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Durable</tag>
+<tag isuseradded="false" count="2">Good carving ability</tag>
+<tag isuseradded="false" count="2">Great flotation</tag>
+<tag isuseradded="false" count="2">Great traction</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>disorderly</pageid>
+<name>Disorderly</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-06-14</newestreviewdate>
+<oldestreviewdate>2010-02-08</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>4.8</average_rating_decimal>
+<fullreviews>4</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="2">Downhill</tag>
+<tag isuseradded="true" count="1">Everywhere</tag>
+<tag isuseradded="true" count="1">Freestyle</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+<tag isuseradded="true" count="2">Jibbing</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="true" count="3">Park and pipe</tag>
+<tag isuseradded="false" count="1">Powder</tag>
+<tag isuseradded="false" count="1">Racing</tag>
+<tag isuseradded="false" count="1">Telemarking</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="1">Heavy</tag>
+<tag isuseradded="true" count="1">Heavy to carry only then</tag>
+<tag isuseradded="false" count="1">Scratches easily</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="2">Advanced</tag>
+<tag isuseradded="false" count="2">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="3">Durable</tag>
+<tag isuseradded="true" count="1">Fast at spinning</tag>
+<tag isuseradded="false" count="4">Good carving ability</tag>
+<tag isuseradded="false" count="3">Great flotation</tag>
+<tag isuseradded="false" count="4">Great traction</tag>
+<tag isuseradded="false" count="3">Lightweight</tag>
+<tag isuseradded="false" count="3">Scratch resistant</tag>
+<tag isuseradded="false" count="4">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>3</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>sidestash</pageid>
+<name>SideStash</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-05-06</newestreviewdate>
+<oldestreviewdate>2009-11-17</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>4.9</average_rating_decimal>
+<fullreviews>11</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="9">Downhill</tag>
+<tag isuseradded="false" count="5">Icy conditions</tag>
+<tag isuseradded="false" count="4">Moguls</tag>
+<tag isuseradded="true" count="1">On piste</tag>
+<tag isuseradded="true" count="1">Pillows</tag>
+<tag isuseradded="false" count="11">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="1">Heavy</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="2">Advanced</tag>
+<tag isuseradded="false" count="1">Beginner</tag>
+<tag isuseradded="false" count="2">Competitive athlete</tag>
+<tag isuseradded="false" count="5">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Best powder ski ever</tag>
+<tag isuseradded="true" count="1">Built in auto-pilot</tag>
+<tag isuseradded="false" count="9">Durable</tag>
+<tag isuseradded="true" count="1">Easy to maneuver</tag>
+<tag isuseradded="true" count="1">Energetic</tag>
+<tag isuseradded="false" count="9">Good carving ability</tag>
+<tag isuseradded="true" count="1">Good glide</tag>
+<tag isuseradded="false" count="11">Great flotation</tag>
+<tag isuseradded="false" count="10">Great traction</tag>
+<tag isuseradded="false" count="3">Lightweight</tag>
+<tag isuseradded="false" count="2">Scratch resistant</tag>
+<tag isuseradded="false" count="4">Smooth ride</tag>
+<tag isuseradded="true" count="1">Stable</tag>
+</taggroup>
+<bottom_line_yes_votes>11</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>ranger</pageid>
+<name>Ranger</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-01</newestreviewdate>
+<oldestreviewdate>2009-11-04</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>3</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="2">Downhill</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+<tag isuseradded="false" count="2">Moguls</tag>
+<tag isuseradded="false" count="2">Powder</tag>
+<tag isuseradded="false" count="1">Racing</tag>
+<tag isuseradded="false" count="1">Telemarking</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="2">Advanced</tag>
+<tag isuseradded="false" count="1">Advanced skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Durable</tag>
+<tag isuseradded="false" count="3">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="3">Great traction</tag>
+<tag isuseradded="false" count="3">Lightweight</tag>
+<tag isuseradded="false" count="1">Scratch resistant</tag>
+<tag isuseradded="false" count="3">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>3</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>sweet-luv</pageid>
+<name>Sweet Luv</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-02-14</newestreviewdate>
+<oldestreviewdate>2010-01-09</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>4</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="4">Downhill</tag>
+<tag isuseradded="false" count="2">Icy conditions</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="false" count="1">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Scratch easily</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="3">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="4">Durable</tag>
+<tag isuseradded="false" count="4">Good carving ability</tag>
+<tag isuseradded="false" count="2">Great flotation</tag>
+<tag isuseradded="false" count="3">Great traction</tag>
+<tag isuseradded="false" count="4">Lightweight</tag>
+<tag isuseradded="true" count="1">Responsive</tag>
+<tag isuseradded="false" count="2">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>4</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>coomback</pageid>
+<name>COOMBAck</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-07-09</newestreviewdate>
+<oldestreviewdate>2009-11-17</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>4.8</average_rating_decimal>
+<fullreviews>10</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Alpine touring</tag>
+<tag isuseradded="false" count="9">Downhill</tag>
+<tag isuseradded="false" count="2">Icy conditions</tag>
+<tag isuseradded="false" count="3">Moguls</tag>
+<tag isuseradded="false" count="10">Powder</tag>
+<tag isuseradded="true" count="1">Ski mountaineering</tag>
+<tag isuseradded="false" count="2">Telemarking</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Unstable at speed</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="4">Advanced</tag>
+<tag isuseradded="false" count="1">Advanced skier</tag>
+<tag isuseradded="false" count="1">Competitive athlete</tag>
+<tag isuseradded="false" count="4">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="6">Durable</tag>
+<tag isuseradded="false" count="5">Good carving ability</tag>
+<tag isuseradded="false" count="10">Great flotation</tag>
+<tag isuseradded="false" count="8">Great traction</tag>
+<tag isuseradded="false" count="8">Lightweight</tag>
+<tag isuseradded="false" count="5">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>10</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>true</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>missconduct</pageid>
+<name>MissConduct</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2009-11-17</newestreviewdate>
+<oldestreviewdate>2009-11-17</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Durable</tag>
+<tag isuseradded="false" count="1">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>ext</pageid>
+<name>EXT</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-04-04</newestreviewdate>
+<oldestreviewdate>2010-02-16</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="2">Downhill</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="true" count="1">Park and pipe</tag>
+<tag isuseradded="false" count="1">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Chips very easily</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="2">Great traction</tag>
+<tag isuseradded="true" count="1">Pretty good in pow</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>edge</pageid>
+<name>Edge</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-03</newestreviewdate>
+<oldestreviewdate>2010-02-14</oldestreviewdate>
+<averageoverallrating>3</averageoverallrating>
+<average_rating_decimal>3</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Skiing</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="1">Difficult to adjust</tag>
+<tag isuseradded="false" count="1">Lacks protection</tag>
+<tag isuseradded="false" count="1">Poor fit</tag>
+<tag isuseradded="true" count="1">Too much chin strap</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="2">Advanced</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Comfortable</tag>
+<tag isuseradded="false" count="1">Easily adjustable</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="false" count="2">Stylish</tag>
+<tag isuseradded="false" count="1">Well ventilated</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="1">Feels full size too big</tag>
+<tag isuseradded="false" count="1">Feels true to size</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>1</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>juvy</pageid>
+<name>Juvy</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-01-09</newestreviewdate>
+<oldestreviewdate>2009-11-05</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.3</average_rating_decimal>
+<fullreviews>4</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="4">Downhill</tag>
+<tag isuseradded="false" count="4">Moguls</tag>
+<tag isuseradded="true" count="1">Park and pipe</tag>
+<tag isuseradded="false" count="2">Powder</tag>
+<tag isuseradded="true" count="1">The park</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="1">Heavy</tag>
+<tag isuseradded="false" count="1">Poor flotation</tag>
+<tag isuseradded="false" count="1">Scratches easily</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="2">Advanced skier</tag>
+<tag isuseradded="false" count="1">Intermediate skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="3">Durable</tag>
+<tag isuseradded="false" count="4">Good carving ability</tag>
+<tag isuseradded="false" count="3">Great flotation</tag>
+<tag isuseradded="false" count="4">Great traction</tag>
+<tag isuseradded="false" count="3">Lightweight</tag>
+<tag isuseradded="false" count="1">Scratch resistant</tag>
+<tag isuseradded="false" count="4">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>4</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>darkside</pageid>
+<name>DarkSide</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-05-06</newestreviewdate>
+<oldestreviewdate>2009-11-17</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>3</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="3">Downhill</tag>
+<tag isuseradded="false" count="3">Powder</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="2">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="3">Durable</tag>
+<tag isuseradded="false" count="3">Good carving ability</tag>
+<tag isuseradded="false" count="3">Great flotation</tag>
+<tag isuseradded="false" count="3">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+</taggroup>
+<bottom_line_yes_votes>3</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>mcconkey-tribute</pageid>
+<name>McConkey Tribute Ski</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2009-10-29</newestreviewdate>
+<oldestreviewdate>2009-10-29</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Chinese DH on powder day</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">We lost shane</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Buttery</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+<tag isuseradded="true" count="1">Totally humpable</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>silencer</pageid>
+<name>Silencer</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-05-02</newestreviewdate>
+<oldestreviewdate>2009-10-31</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.3</average_rating_decimal>
+<fullreviews>7</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">ALL MOUNTAIN</tag>
+<tag isuseradded="true" count="1">Boxes and jumps</tag>
+<tag isuseradded="false" count="5">Downhill</tag>
+<tag isuseradded="false" count="2">Icy conditions</tag>
+<tag isuseradded="false" count="5">Moguls</tag>
+<tag isuseradded="true" count="1">Park</tag>
+<tag isuseradded="true" count="1">Park and pipe</tag>
+<tag isuseradded="false" count="2">Powder</tag>
+<tag isuseradded="true" count="1">Stunt park</tag>
+<tag isuseradded="true" count="1">Terrain park</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Havent found any yet</tag>
+<tag isuseradded="false" count="4">Poor flotation</tag>
+<tag isuseradded="false" count="1">Poor grip</tag>
+<tag isuseradded="true" count="1">Poor in power runs</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="4">Advanced</tag>
+<tag isuseradded="false" count="3">Advanced skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="5">Durable</tag>
+<tag isuseradded="true" count="1">Flexable</tag>
+<tag isuseradded="true" count="1">Good butter zone</tag>
+<tag isuseradded="false" count="7">Good carving ability</tag>
+<tag isuseradded="true" count="1">Good looking</tag>
+<tag isuseradded="true" count="1">Great begginner park ski</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="4">Great traction</tag>
+<tag isuseradded="false" count="4">Lightweight</tag>
+<tag isuseradded="true" count="1">Pretty good flotation</tag>
+<tag isuseradded="false" count="2">Scratch resistant</tag>
+<tag isuseradded="false" count="5">Smooth ride</tag>
+<tag isuseradded="true" count="1">Stable off jumps</tag>
+</taggroup>
+<bottom_line_yes_votes>7</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>pontoon</pageid>
+<name>Pontoon</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-26</newestreviewdate>
+<oldestreviewdate>2009-11-09</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>6</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Chopped skied out</tag>
+<tag isuseradded="true" count="1">CRUD</tag>
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="false" count="6">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="2">Poor grip</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="2">Advanced</tag>
+<tag isuseradded="false" count="4">Advanced skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Durable</tag>
+<tag isuseradded="false" count="6">Great flotation</tag>
+<tag isuseradded="false" count="2">Lightweight</tag>
+<tag isuseradded="false" count="1">Scratch resistant</tag>
+<tag isuseradded="false" count="4">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>6</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>extreme</pageid>
+<name>Extreme</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-04-24</newestreviewdate>
+<oldestreviewdate>2009-12-14</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>4.9</average_rating_decimal>
+<fullreviews>10</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="9">Downhill</tag>
+<tag isuseradded="false" count="7">Icy conditions</tag>
+<tag isuseradded="false" count="8">Moguls</tag>
+<tag isuseradded="true" count="2">Park</tag>
+<tag isuseradded="false" count="6">Powder</tag>
+<tag isuseradded="false" count="1">Racing</tag>
+<tag isuseradded="false" count="1">Telemarking</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="2">Heavy</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="7">Advanced</tag>
+<tag isuseradded="false" count="2">Advanced skier</tag>
+<tag isuseradded="false" count="1">Competitive athlete</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Balanced on rails</tag>
+<tag isuseradded="false" count="8">Durable</tag>
+<tag isuseradded="true" count="1">Fast</tag>
+<tag isuseradded="false" count="10">Good carving ability</tag>
+<tag isuseradded="false" count="7">Great flotation</tag>
+<tag isuseradded="true" count="1">Great pop</tag>
+<tag isuseradded="true" count="1">Great swing weight</tag>
+<tag isuseradded="false" count="7">Great traction</tag>
+<tag isuseradded="false" count="5">Lightweight</tag>
+<tag isuseradded="true" count="1">Poppy</tag>
+<tag isuseradded="false" count="3">Scratch resistant</tag>
+<tag isuseradded="true" count="1">Sick-nasty</tag>
+<tag isuseradded="false" count="9">Smooth ride</tag>
+<tag isuseradded="true" count="1">Stable on jumps</tag>
+</taggroup>
+<bottom_line_yes_votes>10</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>lotta-luv</pageid>
+<name>Lotta Luv</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-15</newestreviewdate>
+<oldestreviewdate>2009-11-17</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.7</average_rating_decimal>
+<fullreviews>3</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Corn</tag>
+<tag isuseradded="false" count="3">Downhill</tag>
+<tag isuseradded="true" count="1">Great on groomers</tag>
+<tag isuseradded="true" count="1">Great on hardpack</tag>
+<tag isuseradded="false" count="1">Icy conditions</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="true" count="1">Packed powder</tag>
+<tag isuseradded="false" count="2">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">There NADA I don't like</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Competitive skier</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Durable</tag>
+<tag isuseradded="true" count="1">Easy to turn</tag>
+<tag isuseradded="false" count="3">Good carving ability</tag>
+<tag isuseradded="false" count="2">Great flotation</tag>
+<tag isuseradded="true" count="1">Great in mush or crud</tag>
+<tag isuseradded="false" count="3">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="true" count="1">Really great bindings</tag>
+<tag isuseradded="false" count="1">Scratch resistant</tag>
+<tag isuseradded="false" count="2">Smooth ride</tag>
+<tag isuseradded="true" count="1">Very stable at speed</tag>
+</taggroup>
+<bottom_line_yes_votes>3</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>crossfire</pageid>
+<name>Crossfire</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-02-15</newestreviewdate>
+<oldestreviewdate>2009-11-05</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.5</average_rating_decimal>
+<fullreviews>6</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="5">Downhill</tag>
+<tag isuseradded="false" count="3">Icy conditions</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="false" count="2">Powder</tag>
+<tag isuseradded="false" count="2">Racing</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="2">Heavy</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Advanced skier</tag>
+<tag isuseradded="false" count="4">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="3">Durable</tag>
+<tag isuseradded="false" count="6">Good carving ability</tag>
+<tag isuseradded="false" count="4">Great flotation</tag>
+<tag isuseradded="false" count="6">Great traction</tag>
+<tag isuseradded="true" count="1">Lands jumps nicely</tag>
+<tag isuseradded="false" count="2">Lightweight</tag>
+<tag isuseradded="true" count="1">Self-turning technology</tag>
+<tag isuseradded="true" count="1">Skis switch well</tag>
+<tag isuseradded="false" count="4">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>6</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>bad-seed</pageid>
+<name>Bad Seed</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-08-30</newestreviewdate>
+<oldestreviewdate>2009-11-10</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>5</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="4">Downhill</tag>
+<tag isuseradded="false" count="2">Icy conditions</tag>
+<tag isuseradded="false" count="4">Moguls</tag>
+<tag isuseradded="true" count="2">Park</tag>
+<tag isuseradded="true" count="1">Park and pipe</tag>
+<tag isuseradded="false" count="4">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Pipe</tag>
+<tag isuseradded="false" count="1">Poor flotation</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Advanced skier</tag>
+<tag isuseradded="false" count="1">Collegiate/pro</tag>
+<tag isuseradded="false" count="1">Competitive athlete</tag>
+<tag isuseradded="false" count="1">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Awesome pow ride</tag>
+<tag isuseradded="false" count="5">Durable</tag>
+<tag isuseradded="false" count="5">Good carving ability</tag>
+<tag isuseradded="false" count="4">Great flotation</tag>
+<tag isuseradded="false" count="5">Great traction</tag>
+<tag isuseradded="false" count="5">Lightweight</tag>
+<tag isuseradded="false" count="4">Scratch resistant</tag>
+<tag isuseradded="false" count="5">Smooth ride</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>5</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>backlash</pageid>
+<name>BackLash</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-04-27</newestreviewdate>
+<oldestreviewdate>2010-04-25</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="1">Moguls</tag>
+<tag isuseradded="false" count="1">Powder</tag>
+<tag isuseradded="false" count="1">Racing</tag>
+<tag isuseradded="false" count="1">Telemarking</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Top edges wears off quick</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="2">Advanced</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">All round</tag>
+<tag isuseradded="true" count="1">Any size turn</tag>
+<tag isuseradded="false" count="1">Good carving ability</tag>
+<tag isuseradded="true" count="1">Good controls</tag>
+<tag isuseradded="false" count="2">Great flotation</tag>
+<tag isuseradded="false" count="2">Great traction</tag>
+<tag isuseradded="true" count="1">Great turn initiation</tag>
+<tag isuseradded="false" count="2">Lightweight</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+<tag isuseradded="true" count="1">Super in powder</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>crossfire-pro</pageid>
+<name>Crossfire Pro</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2009-12-08</newestreviewdate>
+<oldestreviewdate>2009-12-08</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Skiing</tag>
+<tag isuseradded="false" count="1">Snowboarding</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Comfortable</tag>
+<tag isuseradded="false" count="1">Easily adjustable</tag>
+<tag isuseradded="false" count="1">Headphone compatible</tag>
+<tag isuseradded="false" count="1">Protective</tag>
+<tag isuseradded="false" count="1">Well ventilated</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="1">Feels true to size</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>missbehaved</pageid>
+<name>MissBehaved</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-05-05</newestreviewdate>
+<oldestreviewdate>2009-11-17</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>4</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Average snow conditions</tag>
+<tag isuseradded="false" count="3">Downhill</tag>
+<tag isuseradded="true" count="1">Fun soft landings</tag>
+<tag isuseradded="true" count="1">Groomed</tag>
+<tag isuseradded="false" count="3">Moguls</tag>
+<tag isuseradded="false" count="3">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Haven't found any yet</tag>
+<tag isuseradded="false" count="1">Heavy</tag>
+<tag isuseradded="true" count="1">Not snappy enough</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="2">Competitive athlete</tag>
+<tag isuseradded="false" count="1">Competitive skier</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Durable</tag>
+<tag isuseradded="false" count="3">Good carving ability</tag>
+<tag isuseradded="false" count="2">Great flotation</tag>
+<tag isuseradded="false" count="3">Great traction</tag>
+<tag isuseradded="false" count="3">Lightweight</tag>
+<tag isuseradded="false" count="2">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>3</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>raider</pageid>
+<name>Raider</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-31</newestreviewdate>
+<oldestreviewdate>2010-01-08</oldestreviewdate>
+<averageoverallrating>4.5</averageoverallrating>
+<average_rating_decimal>4.5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="2">Downhill</tag>
+<tag isuseradded="false" count="2">Icy conditions</tag>
+<tag isuseradded="false" count="2">Powder</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="false" count="1">Poor flotation</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Durable</tag>
+<tag isuseradded="false" count="2">Good carving ability</tag>
+<tag isuseradded="false" count="1">Great flotation</tag>
+<tag isuseradded="false" count="2">Great traction</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="false" count="1">Smooth ride</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>hellbent</pageid>
+<name>HellBent</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-04-08</newestreviewdate>
+<oldestreviewdate>2009-11-02</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>13</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Backcountry jumps</tag>
+<tag isuseradded="true" count="1">BEAST IN POWDER</tag>
+<tag isuseradded="true" count="1">Big jumps into powder</tag>
+<tag isuseradded="true" count="1">Bottomless landings</tag>
+<tag isuseradded="true" count="3">CLIFFS</tag>
+<tag isuseradded="false" count="3">Downhill</tag>
+<tag isuseradded="true" count="1">Face shots</tag>
+<tag isuseradded="true" count="1">Freestyle backcountry</tag>
+<tag isuseradded="true" count="1">Landing switch in pow</tag>
+<tag isuseradded="false" count="4">Moguls</tag>
+<tag isuseradded="true" count="1">Pillow lines</tag>
+<tag isuseradded="false" count="12">Powder</tag>
+<tag isuseradded="false" count="1">Racing</tag>
+<tag isuseradded="true" count="1">Slashing deep POW</tag>
+<tag isuseradded="true" count="1">Slashing pow turns</tag>
+<tag isuseradded="true" count="2">Trees</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Carving is kinda meh</tag>
+<tag isuseradded="true" count="1">Chattery on groomed</tag>
+<tag isuseradded="false" count="9">Heavy</tag>
+<tag isuseradded="true" count="1">Ice is a little sketchy</tag>
+<tag isuseradded="false" count="2">Poor grip</tag>
+<tag isuseradded="true" count="1">Poor grip on icyhardsnow</tag>
+<tag isuseradded="true" count="1">Scratch easily</tag>
+<tag isuseradded="false" count="1">Scratches easily</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="5">Advanced</tag>
+<tag isuseradded="false" count="3">Advanced skier</tag>
+<tag isuseradded="false" count="2">Competitive athlete</tag>
+<tag isuseradded="false" count="2">Competitive skier</tag>
+<tag isuseradded="false" count="1">Intermediate</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Dependable</tag>
+<tag isuseradded="false" count="5">Durable</tag>
+<tag isuseradded="true" count="1">Durable bases</tag>
+<tag isuseradded="true" count="1">Fun</tag>
+<tag isuseradded="true" count="1">Fun in the park</tag>
+<tag isuseradded="false" count="8">Good carving ability</tag>
+<tag isuseradded="false" count="12">Great flotation</tag>
+<tag isuseradded="false" count="8">Great traction</tag>
+<tag isuseradded="true" count="1">Ledgendary flotation</tag>
+<tag isuseradded="false" count="1">Scratch resistant</tag>
+<tag isuseradded="false" count="10">Smooth ride</tag>
+<tag isuseradded="true" count="1">Speedsteeps</tag>
+<tag isuseradded="true" count="1">Tears up groomers</tag>
+<tag isuseradded="true" count="1">Very fast</tag>
+</taggroup>
+<bottom_line_yes_votes>13</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>pilchuck-pack</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-08-31</newestreviewdate>
+<oldestreviewdate>2010-08-31</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Hiking</tag>
+<tag isuseradded="true" count="1">Skiing</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Durable</tag>
+<tag isuseradded="true" count="1">Lightweight</tag>
+<tag isuseradded="true" count="1">Storage</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>moxie-pro</pageid>
+<name>Moxie Pro</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-03-21</newestreviewdate>
+<oldestreviewdate>2010-03-21</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Downhill</tag>
+<tag isuseradded="false" count="1">Snowboarding</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">On the mountain</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Comfortable</tag>
+<tag isuseradded="false" count="1">Easily adjustable</tag>
+<tag isuseradded="false" count="1">Headphone compatible</tag>
+<tag isuseradded="false" count="1">Protective</tag>
+<tag isuseradded="false" count="1">Stylish</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="1">Feels true to size</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>charger</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-08-20</newestreviewdate>
+<oldestreviewdate>2010-08-20</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>indy-helmet</pageid>
+<name>Indy</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-02-25</newestreviewdate>
+<oldestreviewdate>2009-11-23</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Casual sexual encounters</tag>
+<tag isuseradded="false" count="2">Downhill</tag>
+<tag isuseradded="false" count="2">Half pipe</tag>
+<tag isuseradded="false" count="2">Park</tag>
+<tag isuseradded="false" count="2">Racing</tag>
+<tag isuseradded="false" count="2">Skiing</tag>
+<tag isuseradded="false" count="2">Snowboarding</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">There isn't any bad thing</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Advanced</tag>
+<tag isuseradded="false" count="1">Collegiate/pro</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="2">Comfortable</tag>
+<tag isuseradded="false" count="2">Easily adjustable</tag>
+<tag isuseradded="false" count="1">Great peripheral vision</tag>
+<tag isuseradded="false" count="2">Headphone compatible</tag>
+<tag isuseradded="true" count="1">It's good for goggles</tag>
+<tag isuseradded="false" count="2">Lightweight</tag>
+<tag isuseradded="false" count="2">Protective</tag>
+<tag isuseradded="true" count="1">Sexy</tag>
+<tag isuseradded="false" count="1">Stylish</tag>
+<tag isuseradded="true" count="1">The audio system is great</tag>
+<tag isuseradded="false" count="2">Well ventilated</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="2">Feels true to size</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+</products>

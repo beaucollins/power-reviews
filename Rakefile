@@ -12,13 +12,13 @@ begin
     gemspec.email = "beaucollins@gmail.com"
     gemspec.homepage = "http://github.com/beaucollins/power_reviews"
     gemspec.authors = ["Beau Collins"]
-    gemspec.add_runtime_dependency 'javan-whenever'
+    gemspec.add_runtime_dependency 'whenever'
     gemspec.add_runtime_dependency 'fastercsv' 
     gemspec.add_development_dependency 'activesupport'
     gemspec.add_development_dependency 'shoulda'
   end
 rescue LoadError
-  puts "Jeweler not available. Install it with: sudo gem install technicalpickles-jeweler -s http://gems.github.com"
+  puts "Jeweler not available. Install it with: gem install jeweler"
 end
 
 
