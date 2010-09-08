@@ -14,6 +14,8 @@ begin
     gemspec.authors = ["Beau Collins"]
     gemspec.add_runtime_dependency 'javan-whenever'
     gemspec.add_runtime_dependency 'fastercsv' 
+    gemspec.add_development_dependency 'activesupport'
+    gemspec.add_development_dependency 'shoulda'
   end
 rescue LoadError
   puts "Jeweler not available. Install it with: sudo gem install technicalpickles-jeweler -s http://gems.github.com"
