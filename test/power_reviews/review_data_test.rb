@@ -18,4 +18,24 @@ class ReviewDataTest < ActiveSupport::TestCase
     
   end
   
+  context "with missing xml" do
+    
+    setup do
+      PowerReviews::Config.review_data_path='/var/tmp'
+      PowerReviews::ReviewData.reload!
+    end
+  
+    should "raise error when no review data" do
+      @data = PowerReviews::ReviewData.new(nil)
+      assert_raises PowerReviews::ReviewData::MissingData do
+        @data.summary('shadow')      
+      end
+    end
+  
+    should "return nil data" do
+      assert_nil PowerReviews::ReviewData.summary('shadow')
+    end
+    
+  end
+  
 end

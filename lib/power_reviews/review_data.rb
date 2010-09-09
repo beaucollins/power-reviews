@@ -5,11 +5,21 @@ module PowerReviews
   
   class ReviewData
     
+    class MissingData < StandardError; end;
+    
+    DATA_FILES = ['review_data_complete', 'review_data_summary']
+    
     class << self
       
       # retrieve the summary data for the given page_id
       def summary(page_id)
         document.summary(page_id)
+      rescue MissingData
+        nil
+      end
+      
+      def reload!
+        @document = nil
       end
       
       protected
@@ -51,11 +61,12 @@ module PowerReviews
       def xml_documents
         return @files unless @files.nil?
         files = {}
-
         Find.find(@search_path) do |path|
           bn = File.basename(path, '.xml')
-          files[bn] = path if ['review_data_complete', 'review_data_summary'].include?(bn)
+          files[bn] = path if DATA_FILES.include?(bn)
         end
+        missing = DATA_FILES.select { |f| files[f].blank? }
+        raise MissingData, "missing Power Reviews xml: #{missing.collect {|f| f + ".xml"}.join(', ')}" unless missing.empty?
         @files = files
         @files
       end

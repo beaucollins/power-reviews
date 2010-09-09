@@ -10,7 +10,7 @@ module PowerReviews
       
       if block_given?
         yield summary unless summary.nil?
-      else summary.nil?
+      elsif !summary.nil?
       
         <<-review
         <div class='hreview-aggregate'>
@@ -24,7 +24,8 @@ module PowerReviews
           <span class="count">#{summary.reviews}</span> user reviews.
         </div>
         review
-      
+      else
+        ''
       end
     end
     

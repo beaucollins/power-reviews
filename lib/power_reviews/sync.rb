@@ -49,7 +49,7 @@ module PowerReviews
       end
       
       def configure
-        @config ||= YAML::load(File.open("#{RAILS_ROOT}/config/power_reviews.yml"))[Rails.environment] || {}
+        @config ||= YAML::load(File.open("#{RAILS_ROOT}/config/power_reviews.yml"))[Rails.env] || {}
       end
     
     end

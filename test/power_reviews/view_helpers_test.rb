@@ -12,6 +12,11 @@ class ViewHelpersText < ActiveSupport::TestCase
     @controller ||= FakeController.new
   end
   
+  setup do
+    PowerReviews::Config.review_data_path='test/fixtures/rawdata'
+    PowerReviews::ReviewData.reload!
+  end
+  
   should "have hReview helper" do
     
     assert controller.power_reviews_hreview('shadow') =~ %r{<span class="fn">Shadow</span>}
