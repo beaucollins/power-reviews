@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>shadow</pageid>
+<name>Shadow</name>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2010-01-28</newestreviewdate>
+<oldestreviewdate>2010-01-28</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Purchaser</confirmstatus>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Snowboarding</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Beginner</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Comfortable</tag>
+<tag isuseradded="false" count="1">Easily adjustable</tag>
+<tag isuseradded="false" count="1">Great peripheral vision</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+<tag isuseradded="false" count="1">Protective</tag>
+<tag isuseradded="false" count="1">Stylish</tag>
+<tag isuseradded="false" count="1">Well ventilated</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="1">Feels true to size</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+<reviews>
+<fullreview>
+<id>11111111</id>
+<merchant_review_id>11111111</merchant_review_id>
+<merchantuserid/>
+<status>Approved</status>
+<createddate>2010-01-28</createddate>
+<helpfulvotes>1</helpfulvotes>
+<nothelpfulvotes>0</nothelpfulvotes>
+<source>web</source>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<headline>Goggle straps are the best! Love it</headline>
+<overallrating>5</overallrating>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Protective</tag>
+<tag isuseradded="false" count="1">Easily Adjustable</tag>
+<tag isuseradded="false" count="1">Great Peripheral Vision</tag>
+<tag isuseradded="false" count="1">Stylish</tag>
+<tag isuseradded="false" count="1">Well Ventilated</tag>
+<tag isuseradded="false" count="1">Comfortable</tag>
+<tag isuseradded="false" count="1">Lightweight</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Beginner</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="1">Feels true to size</tag>
+</taggroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Snowboarding</tag>
+</taggroup>
+<bottom_line>recommended</bottom_line>
+<comments>The Shadow is perfect! It fits great and best of all no more goggles flying back when I lift them up.</comments>
+<nickname>nickname</nickname>
+<location>location, st</location>
+<site_id>1</site_id>
+</fullreview>
+</reviews>
+</product>
+
+</products>
